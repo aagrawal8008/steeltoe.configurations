@@ -9,7 +9,7 @@ eureka:
 ---
 parent: 
   child1: default-settings
-  child2: default-settings1
+  child2: default-settings123
 ---
 WWT.Steeltoe.Configurations.DotNet46: .Net Framework 4.6.1 used
 WWT.Steeltoe.Configurations.DotNetCore: .Net Framework Core used
